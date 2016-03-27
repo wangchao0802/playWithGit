@@ -28,7 +28,15 @@
 
 -(void)heh
 {
+
+    NSLog(@"put inline ");
 }
+
+-(void)secondStep
+{
+    NSLog(@"yes u can");
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
