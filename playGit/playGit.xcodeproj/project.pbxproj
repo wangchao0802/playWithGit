@@ -15,6 +15,7 @@
 		4B57692E1CA7803800885E22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B57692C1CA7803800885E22 /* LaunchScreen.storyboard */; };
 		4B5769391CA7803800885E22 /* playGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5769381CA7803800885E22 /* playGitTests.m */; };
 		4B5769441CA7803800885E22 /* playGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5769431CA7803800885E22 /* playGitUITests.m */; };
+		4B5769531CA786A700885E22 /* tesPick.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B5769521CA786A700885E22 /* tesPick.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		4B57693F1CA7803800885E22 /* playGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = playGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5769431CA7803800885E22 /* playGitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = playGitUITests.m; sourceTree = "<group>"; };
 		4B5769451CA7803800885E22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B5769511CA786A700885E22 /* tesPick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tesPick.h; sourceTree = "<group>"; };
+		4B5769521CA786A700885E22 /* tesPick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tesPick.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				4B5769221CA7803800885E22 /* AppDelegate.m */,
 				4B5769241CA7803800885E22 /* ViewController.h */,
 				4B5769251CA7803800885E22 /* ViewController.m */,
+				4B5769511CA786A700885E22 /* tesPick.h */,
+				4B5769521CA786A700885E22 /* tesPick.m */,
 				4B5769271CA7803800885E22 /* Main.storyboard */,
 				4B57692A1CA7803800885E22 /* Assets.xcassets */,
 				4B57692C1CA7803800885E22 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				4B5769261CA7803800885E22 /* ViewController.m in Sources */,
 				4B5769231CA7803800885E22 /* AppDelegate.m in Sources */,
 				4B5769201CA7803800885E22 /* main.m in Sources */,
+				4B5769531CA786A700885E22 /* tesPick.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
